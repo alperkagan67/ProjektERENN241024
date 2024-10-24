@@ -10,12 +10,17 @@ function App() {
   return (
     <div className="main-container">
       <Navbar />
+      
       <Content>
         <div>Hello from Earth</div>
         <StandardBtn>IT</StandardBtn>
-        
+        <StandardBtn>TESTT</StandardBtn>
+        <StandardBtn>TEST!</StandardBtn>
+        <StandardBtn>TEST!</StandardBtn>
+        <StandardBtn>IT</StandardBtn>
       <ActionBtn>HALLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOOO</ActionBtn>
       </Content>
+      <ActionBtn>HALLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOOO</ActionBtn><Footer />
       <ActionBtn>HALLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOOO</ActionBtn><Footer />
     </div>
   );
