@@ -16,6 +16,7 @@ function App() {
         <StandardBtn>IT</StandardBtn>
         <StandardBtn>TESTT</StandardBtn>
         <StandardBtn>TEST!</StandardBtn>
+        <StandardBtn>TEST!</StandardBtn>
         <StandardBtn>IT</StandardBtn>
       <ActionBtn>HALLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOOO</ActionBtn>
       </Content>
