@@ -1,0 +1,15 @@
+.bg-body-tertiary {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand img {
+    margin-right: 50px;
+    float: left;
+}
+
+.d-inline-block.align-top {
+    vertical-align: middle;
+}
+
+/*logo nach links außen komplett*/
+

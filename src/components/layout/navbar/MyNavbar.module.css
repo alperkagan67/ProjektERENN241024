@@ -1,0 +1,19 @@
+.navbarContainer {
+  background-color: blueviolet;
+  /* Beispiel für die Hintergrundfarbe */
+  display: flex;
+  justify-content: flex-start;
+  /* Logo komplett links */
+  align-items: center;
+  /* Zentriert vertikal */
+}
+
+.navbarBrand {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 10px;
+  /* Optionaler Abstand zwischen Logo und Text */
+}
